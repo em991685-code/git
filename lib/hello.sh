@@ -7,4 +7,4 @@ if [ -z "$name" ]; then
     name="World"
 fi
 
-Greeter "$name"
+echo "Greetings, $name"
